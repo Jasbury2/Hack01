@@ -2,6 +2,6 @@
 
 Julie Asbury
 
-https://github.com/Jasbury2/Hack01/edit/master/README.md
+https://github.com/Jasbury2/Hack01.git
 
 Worked with Carlie and Haley
